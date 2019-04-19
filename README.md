@@ -27,9 +27,9 @@
 - Tab category page: Shows a list and website preview of each tab saved, along with description user gave for that tab. Clicking the tab link takes you to that website.
 
 # App Links
-## UI Landing Page
--
 ## Front End Url
--
-## Back End Url
--
+- https://stash-it.netlify.com/
+## Back End Url - Itel
+- https://stashit-itel.herokuapp.com/
+## Back End Url - Rory
+- https://tabless-db.herokuapp.com/
