@@ -28,7 +28,7 @@
 
 # App Links
 ## Front End Url
-- https://stash-it.netlify.com/
+- https://stash-it-react.netlify.com/
 ## Back End Url - Itel
 - https://stashit-itel.herokuapp.com/
 ## Back End Url - Rory
